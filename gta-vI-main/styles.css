@@ -1,0 +1,16 @@
+/* Add your existing styles here */
+
+.slant-text {
+    font-style: italic;
+    font-size: 50px;
+    color: yellow;
+  }
+  .one{
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(48, 46, 46);
+}
+body{
+    background-color: rgb(241, 33, 241);
+}
+  
